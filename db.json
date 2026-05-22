@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Comprendre Vue.js 3",
+      "done": true
+    },
+    {
+      "id": "2",
+      "title": "Comparer Vue avec React",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Utiliser Pinia et Vue Router",
+      "done": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
